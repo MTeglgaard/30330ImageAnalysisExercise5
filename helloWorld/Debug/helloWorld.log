@@ -1,0 +1,7 @@
+﻿  Source.cpp
+c:\users\30330\documents\teamawsome\30330imageanalysisexercise1-master\30330imageanalysisexercise5-master\helloworld\source.cpp(106): warning C4018: '<': signed/unsigned mismatch
+c:\users\30330\documents\teamawsome\30330imageanalysisexercise1-master\30330imageanalysisexercise5-master\helloworld\source.cpp(108): warning C4018: '<': signed/unsigned mismatch
+c:\users\30330\documents\teamawsome\30330imageanalysisexercise1-master\30330imageanalysisexercise5-master\helloworld\source.cpp(134): warning C4018: '<': signed/unsigned mismatch
+c:\users\30330\documents\teamawsome\30330imageanalysisexercise1-master\30330imageanalysisexercise5-master\helloworld\source.cpp(136): warning C4018: '<': signed/unsigned mismatch
+Source.obj : error LNK2019: unresolved external symbol "int __cdecl calcArea(int,int,int,struct _IplImage *)" (?calcArea@@YAHHHHPAU_IplImage@@@Z) referenced in function "int __cdecl comprare(int,int,int,struct _IplImage *,int)" (?comprare@@YAHHHHPAU_IplImage@@H@Z)
+C:\Users\30330\Documents\teamAwsome\30330ImageAnalysisExercise1-master\30330ImageAnalysisExercise5-master\Debug\helloWorld.exe : fatal error LNK1120: 1 unresolved externals
